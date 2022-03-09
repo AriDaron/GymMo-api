@@ -1,0 +1,278 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Diana Ross",
+            "email": "diana@Ross.com"
+        },
+        {
+            "id": 2,
+            "name": "Buffy Vamp",
+            "email": "buffy@vamp.com"
+        },
+        {
+            "id": 3,
+            "name": "Johnny Bravo",
+            "email": "johnny@Bravo.com"
+        },
+        {
+            "id": 4,
+            "name": "Arnold Swartz",
+            "email": "arnold@swartz.com"
+        }
+    ],
+    "bodyParts": [
+        {
+            "id": 1,
+            "name": "Back"
+        },
+        {
+            "id": 2,
+            "name": "Biceps"
+        },
+        {
+            "id": 3,
+            "name": "Chest"
+        },
+        {
+            "id": 4,
+            "name": "Shoulders"
+        },
+        {
+            "id": 5,
+            "name": "Triceps"
+        },
+        {
+            "id": 6,
+            "name": "Legs"
+        },
+        {
+            "id": 7,
+            "name": "Abs"
+        }
+    ],
+    "exercises": [
+        {
+            "id": 1,
+            "name": "Deadlift",
+            "hyperlink": "link goes here"
+        },
+        {
+            "id": 2,
+            "name": "Bent-Over Row",
+            "hyperlink": "link goes here"
+        },
+        {
+            "id": 3,
+            "name": "Lat Pulldowns",
+            "hyperlink": "link goes here"
+        },
+        {
+            "id": 4,
+            "name": "Pull-Ups",
+            "hyperlink": "link goes here"
+        },
+        {
+            "id": 5,
+            "name": "Incline Dumbbell Curls",
+            "hyperlink": "link goes here"
+        },
+        {
+            "id": 6,
+            "name": "Preacher Curls",
+            "hyperlink": "link goes here"
+        },
+        {
+            "id": 7,
+            "name": "Chin-Ups",
+            "hyperlink": "link goes here"
+        },
+        {
+            "id": 8,
+            "name": "Hammer Curls",
+            "hyperlink": "link goes here"
+        },
+        {
+            "id": 9,
+            "name": "Flat Bench Press",
+            "hyperlink": "link goes here"
+        },
+        {
+            "id": 10,
+            "name": "Pushups",
+            "hyperlink": "link goes here"
+        },
+        {
+            "id": 11,
+            "name": "Cable Crossover",
+            "hyperlink": "link goes here"
+        },
+        {
+            "id": 12,
+            "name": "Dumbbell Pullover",
+            "hyperlink": "link goes here"
+        },
+        {
+            "id": 13,
+            "name": "Lateral Raise",
+            "hyperlink": "link goes here"
+        },
+        {
+            "id": 14,
+            "name": "Arnold Press",
+            "hyperlink": "link goes here"
+        },
+        {
+            "id": 15,
+            "name": "Dumbbell Shrugs",
+            "hyperlink": "link goes here"
+        },
+        {
+            "id": 16,
+            "name": "Upright Row",
+            "hyperlink": "link goes here"
+        },
+        {
+            "id": 17,
+            "name": "Kickbacks",
+            "hyperlink": "link goes here"
+        },
+        {
+            "id": 18,
+            "name": "Diamond PushUps",
+            "hyperlink": "link goes here"
+        },
+        {
+            "id": 19,
+            "name": "Rope Pushdown",
+            "hyperlink": "link goes here"
+        },
+        {
+            "id": 20,
+            "name": "SkullCrushers",
+            "hyperlink": "link goes here"
+        },
+        {
+            "id": 21,
+            "name": "Back Squats",
+            "hyperlink": "link goes here"
+        },
+        {
+            "id": 22,
+            "name": "Leg Extensions",
+            "hyperlink": "link goes here"
+        },
+        {
+            "id": 23,
+            "name": "Lateral Lunges",
+            "hyperlink": "link goes here"
+        },
+        {
+            "id": 24,
+            "name": "Glute Bridge",
+            "hyperlink": "link goes here"
+        },
+        {
+            "id": 25,
+            "name": "Russian Twist",
+            "hyperlink": "link goes here"
+        },
+        {
+            "id": 26,
+            "name": "V-ups",
+            "hyperlink": "link goes here"
+        },
+        {
+            "id": 27,
+            "name": "Leg Circles",
+            "hyperlink": "link goes here"
+        },
+        {
+            "id": 28,
+            "name": "Reverse Crunches",
+            "hyperlink": "link goes here"
+        }
+    ],
+    
+    "entryMood":[
+        {
+            "id":1,
+            "type":"Energized"
+        },
+        {
+            "id":2,
+            "type":"Sore"
+        },
+        {
+            "id":3,
+            "type":"Pain"
+        },
+        {
+            "id":4,
+            "type":"Good"
+        },
+        {
+            "id":5,
+            "type":"Over it"
+        },
+        {
+            "id":6,
+            "type":"Other"
+        }
+    ],
+    "MoAudios":[
+        {
+            "id":1,
+            "title":"",
+            "hyperlink":"link goes here"
+        },
+        {
+            "id":2,
+            "title":"",
+            "hyperlink":"link goes here"
+        },
+        {
+            "id":3,
+            "title":"",
+            "hyperlink":"link goes here"
+        },
+        {
+            "id":4,
+            "title":"",
+            "hyperlink":"link goes here"
+        },
+        {
+            "id":5,
+            "title":"",
+            "hyperlink":"link goes here"
+        },
+        {
+            "id":6,
+            "title":"",
+            "hyperlink":"link goes here"
+        }
+    ],
+    "journalEntries":[
+        {
+            "id":1,
+            "date":"03/08/2022",
+            "description": "This has been my first week back to the gym and Im feeling really sore ",
+            "EntryMoodId":2,
+            "userId":1
+        },
+        {
+            "id":2,
+            "date":"03/09/2022",
+            "description": "Today was better than yesterday. I need to remind myself to take it slow and focus on my form. ",
+            "EntryMoodId":2,
+            "userId":1
+        },
+        {
+            "id":3,
+            "date":"03/08/2022",
+            "description": "Today marks the beginning of my new fitness Journey!",
+            "EntryMoodId":1,
+            "userId":2
+        }
+    ]
+}
