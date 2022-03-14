@@ -13,7 +13,7 @@
     {
       "id": 3,
       "name": "Johnny Bravo",
-      "email": "johnny@Bravo.com"
+      "email": "johnny@bravo.com"
     },
     {
       "id": 4,
@@ -25,6 +25,11 @@
       "address": "123 hickory Street ",
       "email": "ari@daron.com",
       "id": 5
+    },
+    {
+      "name": "devin kent",
+      "email": "devin@kent.com",
+      "id": 6
     }
   ],
   "bodyParts": [
@@ -61,97 +66,97 @@
     {
       "id": 1,
       "name": "Deadlift",
-      "hyperlink": "link goes here"
+      "hyperlink": "https://youtu.be/op9kVnSso6Q"
     },
     {
       "id": 2,
       "name": "Bent-Over Row",
-      "hyperlink": "link goes here"
+      "hyperlink": "https://youtu.be/-xlBxIMqh3A"
     },
     {
       "id": 3,
       "name": "Lat Pulldowns",
-      "hyperlink": "link goes here"
+      "hyperlink": "https://youtu.be/lueEJGjTuPQ"
     },
     {
       "id": 4,
       "name": "Pull-Ups",
-      "hyperlink": "link goes here"
+      "hyperlink": "https://youtu.be/HRV5YKKaeVw"
     },
     {
       "id": 5,
       "name": "Incline Dumbbell Curls",
-      "hyperlink": "link goes here"
+      "hyperlink": "https://youtu.be/soxrZlIl35U"
     },
     {
       "id": 6,
       "name": "Preacher Curls",
-      "hyperlink": "link goes here"
+      "hyperlink": "https://www.youtube.com/watch?v=RgN216Cumtw"
     },
     {
       "id": 7,
       "name": "Chin-Ups",
-      "hyperlink": "link goes here"
+      "hyperlink": "https://youtu.be/nILkwSyrE3Y"
     },
     {
       "id": 8,
       "name": "Hammer Curls",
-      "hyperlink": "link goes here"
+      "hyperlink": "https://youtu.be/0IAM2YtviQY"
     },
     {
       "id": 9,
       "name": "Flat Bench Press",
-      "hyperlink": "link goes here"
+      "hyperlink": "https://youtu.be/Qjxrp9Hwv_Q"
     },
     {
       "id": 10,
       "name": "Pushups",
-      "hyperlink": "link goes here"
+      "hyperlink": "https://youtu.be/XIHO5t_VBPQ"
     },
     {
       "id": 11,
       "name": "Cable Crossover",
-      "hyperlink": "link goes here"
+      "hyperlink": "https://youtu.be/aoP0s_MjN-ge"
     },
     {
       "id": 12,
       "name": "Dumbbell Pullover",
-      "hyperlink": "link goes here"
+      "hyperlink": "https://youtu.be/4B-BrBH17uM"
     },
     {
       "id": 13,
       "name": "Lateral Raise",
-      "hyperlink": "link goes here"
+      "hyperlink": "https://youtu.be/E3abEP8SIh0"
     },
     {
       "id": 14,
       "name": "Arnold Press",
-      "hyperlink": "link goes here"
+      "hyperlink": "https://youtu.be/X60-yTMOJfw"
     },
     {
       "id": 15,
       "name": "Dumbbell Shrugs",
-      "hyperlink": "link goes here"
+      "hyperlink": "https://youtu.be/8lP_eJvClSA"
     },
     {
       "id": 16,
       "name": "Upright Row",
-      "hyperlink": "link goes here"
+      "hyperlink": "https://youtu.be/KzYlXWXVw3o"
     },
     {
       "id": 17,
       "name": "Kickbacks",
-      "hyperlink": "link goes here"
+      "hyperlink": "https://youtu.be/HyqTb_jE_oI"
     },
     {
       "id": 18,
       "name": "Diamond PushUps",
-      "hyperlink": "link goes here"
+      "hyperlink": "https://youtu.be/XtU2VQVuLYs"
     },
     {
       "id": 19,
       "name": "Rope Pushdown",
-      "hyperlink": "link goes here"
+      "hyperlink": "https://youtu.be/a2eYKI4mWgk"
     },
     {
       "id": 20,
@@ -202,28 +207,28 @@
   "MoAudios": [
     {
       "id": 1,
-      "title": "",
-      "hyperlink": "link goes here"
+      "title": "2022 Workout Mix",
+      "hyperlink": "https://youtu.be/O7x2YwnVrs4"
     },
     {
       "id": 2,
-      "title": "",
-      "hyperlink": "link goes here"
+      "title": "Focus, Listen, Lift",
+      "hyperlink": "https://youtu.be/s8hWQwFwayo"
     },
     {
       "id": 3,
-      "title": "",
-      "hyperlink": "link goes here"
+      "title": "1 Hour Long Workout Motivational Speech/ Epic Music Mix",
+      "hyperlink": "https://youtu.be/A6OwnNe9nMU"
     },
     {
       "id": 4,
-      "title": "",
-      "hyperlink": "link goes here"
+      "title": "Gym/Workout Songs Playlist",
+      "hyperlink": "https://youtu.be/iqqEnK6JVmE"
     },
     {
       "id": 5,
-      "title": "",
-      "hyperlink": "link goes here"
+      "title": "Watch This when you feel lazy",
+      "hyperlink": "https://youtu.be/M7RwzSuvTgs"
     },
     {
       "id": 6,
@@ -262,31 +267,24 @@
     },
     {
       "date": "2022-03-10",
-      "description": "feeling okay",
-      "mood": "",
-      "userId": 1,
-      "id": 5
-    },
-    {
-      "date": "2022-03-10",
       "mood": "",
       "description": "knees hurting ",
       "userId": 1,
       "id": 6
     },
     {
-      "date": "2022-03-11",
-      "mood": "",
-      "description": "test",
-      "userId": 1,
-      "id": 7
-    },
-    {
-      "date": "2022-03-10",
+      "date": "2022-03-14",
       "mood": "Energized",
-      "description": "Lets go!",
+      "description": "Today Im. feeling strong. Im going to hit chest and shoulders after work.",
       "userId": 1,
       "id": 8
+    },
+    {
+      "date": "2022-03-14",
+      "mood": "Energized",
+      "description": "Ohhhhhh yeaahhhhh!!! Who's pumped!",
+      "userId": 3,
+      "id": 9
     }
   ]
 }
