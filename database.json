@@ -160,193 +160,192 @@
     },
     {
       "id": 20,
-      "name": "SkullCrushers",
-      "hyperlink": "link goes here"
+      "name": " Dumbbell SkullCrushers",
+      "hyperlink": "https://youtu.be/IAHDkC6vJw4"
     },
     {
       "id": 21,
       "name": "Back Squats",
-      "hyperlink": "link goes here"
+      "hyperlink": "https://youtu.be/ultWZbUMPL8"
     },
     {
       "id": 22,
       "name": "Leg Extensions",
-      "hyperlink": "link goes here"
+      "hyperlink": "https://youtu.be/yR_LqZYSIgM"
     },
     {
       "id": 23,
-      "name": "Lateral Lunges",
-      "hyperlink": "link goes here"
+      "name": "Cable Hip Abduction",
+      "hyperlink": "https://youtu.be/pvnR8CDb4BU"
     },
     {
       "id": 24,
       "name": "Glute Bridge",
-      "hyperlink": "link goes here"
+      "hyperlink": "https://youtu.be/MqQlfjQOmHA"
     },
     {
       "id": 25,
-      "name": "Russian Twist",
-      "hyperlink": "link goes here"
+      "name": "Bodyweight Russian Twist",
+      "hyperlink": "https://youtu.be/NmzEBlYTR0s"
     },
     {
       "id": 26,
       "name": "V-ups",
-      "hyperlink": "link goes here"
+      "hyperlink": "https://youtu.be/7UVgs18Y1P4"
     },
     {
       "id": 27,
       "name": "Leg Circles",
-      "hyperlink": "link goes here"
+      "hyperlink": "https://youtu.be/4Vhq0zakuiA"
     },
     {
       "id": 28,
       "name": "Reverse Crunches",
-      "hyperlink": "link goes here"
+      "hyperlink": "https://youtu.be/lmSP-c1X_iY"
     }
   ],
-"bodyPartExercises":[
-{
-    "id":1,
-    "bodyPartId":1,
-    "exerciseId":1
-},
-{
-    "id":2,
-    "bodyPartId":1,
-    "exerciseId":2
-},
-{
-    "id":3,
-    "bodyPartId":1,
-    "exerciseId":3
-},
-{
-    "id":4,
-    "bodyPartId":1,
-    "exerciseId":4
-},
-{
-    "id":5,
-    "bodyPartId":2,
-    "exerciseId":5
-},
-{
-    "id":5,
-    "bodyPartId":2,
-    "exerciseId":6
-},
-{
-    "id":6,
-    "bodyPartId":2,
-    "exerciseId":7
-},
-{
-    "id":7,
-    "bodyPartId":2,
-    "exerciseId":8
-},
-{
-    "id":8,
-    "bodyPartId":3,
-    "exerciseId":9
-},
-{
-    "id":9,
-    "bodyPartId":3,
-    "exerciseId":10
-},
-{
-    "id":10,
-    "bodyPartId":3,
-    "exerciseId":11
-},
-{
-    "id":11,
-    "bodyPartId":3,
-    "exerciseId":12
-},
-{
-    "id":12,
-    "bodyPartId":4,
-    "exerciseId":13
-},
-{
-    "id":13,
-    "bodyPartId":4,
-    "exerciseId":14
-},
-{
-    "id":14,
-    "bodyPartId":4,
-    "exerciseId":15
-},
-{
-    "id":15,
-    "bodyPartId":4,
-    "exerciseId":16
-},
-{
-    "id":16,
-    "bodyPartId":5,     
-    "exerciseId":17
-},
-{
-    "id":17,
-    "bodyPartId":5,     
-    "exerciseId":18
-},
-{
-    "id":18,
-    "bodyPartId":5,     
-    "exerciseId":19
-},
-{
-    "id":19,
-    "bodyPartId":5,     
-    "exerciseId":20
-},
-{
-    "id":20,
-    "bodyPartId":6,     
-    "exerciseId":21
-},
-{
-    "id":21,
-    "bodyPartId":6,     
-    "exerciseId":22
-},
-{
-    "id":22,
-    "bodyPartId":6,     
-    "exerciseId":23
-},
-{
-    "id":23,
-    "bodyPartId":6,     
-    "exerciseId":24
-},
-{
-    "id":24,
-    "bodyPartId":7,     
-    "exerciseId":25
-},
-{
-    "id":25,
-    "bodyPartId":7,     
-    "exerciseId":26
-},
-{
-    "id":26,
-    "bodyPartId":7,     
-    "exerciseId":27
-},
-{
-    "id":27,
-    "bodyPartId":7,     
-    "exerciseId":28
-}
-],
-
+  "bodyPartExercises": [
+    {
+      "id": 1,
+      "bodyPartId": 1,
+      "exerciseId": 1
+    },
+    {
+      "id": 2,
+      "bodyPartId": 1,
+      "exerciseId": 2
+    },
+    {
+      "id": 3,
+      "bodyPartId": 1,
+      "exerciseId": 3
+    },
+    {
+      "id": 4,
+      "bodyPartId": 1,
+      "exerciseId": 4
+    },
+    {
+      "id": 5,
+      "bodyPartId": 2,
+      "exerciseId": 5
+    },
+    {
+      "id": 5,
+      "bodyPartId": 2,
+      "exerciseId": 6
+    },
+    {
+      "id": 6,
+      "bodyPartId": 2,
+      "exerciseId": 7
+    },
+    {
+      "id": 7,
+      "bodyPartId": 2,
+      "exerciseId": 8
+    },
+    {
+      "id": 8,
+      "bodyPartId": 3,
+      "exerciseId": 9
+    },
+    {
+      "id": 9,
+      "bodyPartId": 3,
+      "exerciseId": 10
+    },
+    {
+      "id": 10,
+      "bodyPartId": 3,
+      "exerciseId": 11
+    },
+    {
+      "id": 11,
+      "bodyPartId": 3,
+      "exerciseId": 12
+    },
+    {
+      "id": 12,
+      "bodyPartId": 4,
+      "exerciseId": 13
+    },
+    {
+      "id": 13,
+      "bodyPartId": 4,
+      "exerciseId": 14
+    },
+    {
+      "id": 14,
+      "bodyPartId": 4,
+      "exerciseId": 15
+    },
+    {
+      "id": 15,
+      "bodyPartId": 4,
+      "exerciseId": 16
+    },
+    {
+      "id": 16,
+      "bodyPartId": 5,
+      "exerciseId": 17
+    },
+    {
+      "id": 17,
+      "bodyPartId": 5,
+      "exerciseId": 18
+    },
+    {
+      "id": 18,
+      "bodyPartId": 5,
+      "exerciseId": 19
+    },
+    {
+      "id": 19,
+      "bodyPartId": 5,
+      "exerciseId": 20
+    },
+    {
+      "id": 20,
+      "bodyPartId": 6,
+      "exerciseId": 21
+    },
+    {
+      "id": 21,
+      "bodyPartId": 6,
+      "exerciseId": 22
+    },
+    {
+      "id": 22,
+      "bodyPartId": 6,
+      "exerciseId": 23
+    },
+    {
+      "id": 23,
+      "bodyPartId": 6,
+      "exerciseId": 24
+    },
+    {
+      "id": 24,
+      "bodyPartId": 7,
+      "exerciseId": 25
+    },
+    {
+      "id": 25,
+      "bodyPartId": 7,
+      "exerciseId": 26
+    },
+    {
+      "id": 26,
+      "bodyPartId": 7,
+      "exerciseId": 27
+    },
+    {
+      "id": 27,
+      "bodyPartId": 7,
+      "exerciseId": 28
+    }
+  ],
   "moAudios": [
     {
       "id": 1,
@@ -372,11 +371,6 @@
       "id": 5,
       "title": "Watch This when you feel lazy",
       "hyperlink": "https://youtu.be/M7RwzSuvTgs"
-    },
-    {
-      "id": 6,
-      "title": "",
-      "hyperlink": "link goes here"
     }
   ],
   "journalEntries": [
